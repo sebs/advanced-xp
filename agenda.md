@@ -16,7 +16,7 @@ Every Bullet Point is 25 Minutes + 5 Minutes Break
 Learning Points
 
 * The agile Manifestos Values and Priciples are a "guiding light" 
-* Kaizen, Inspect and adapt are not only in Retrospectives
+* Kaizen, Inspect and Adapt are not only in Retrospectives - They are a everyday Practice for everyone
 * Values and Priciples in the context of the company
 * Lean Wastes are important for everybody. Devs can show management where waste occurs
 
