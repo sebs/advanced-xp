@@ -9,8 +9,8 @@ Every Bullet Point is 25 Minutes + 5 Minutes Break
 * Values + Principles
 * The agile manifesto and our team - Is the agile manifesto colliding with company culture?
 * Inspect and Adapt vs. PDSA - The mechanics behind retrospectives
-* 7 Wastes and 5 Factors
-* 7 Wastes and 5 Factors 
+* Build me a Process
+* Build me a Process 
 * Lessons Learned
 
 Learning Points
@@ -18,7 +18,7 @@ Learning Points
 * The agile Manifestos Values and Priciples are a "guiding light" 
 * Kaizen, Inspect and Adapt are not only in Retrospectives - They are a everyday Practice for everyone
 * Values and Priciples in the context of the company
-* Lean Wastes are important for everybody. Devs can show management where waste occurs
+* Relearning the Scrum Process
 
 Lunchbreak (Pizza in the Office for all)
 
@@ -27,7 +27,7 @@ Lunchbreak (Pizza in the Office for all)
 * Recap
 * User Stories - Basics 
 * User Stories - Acceptance Criteria + Tests 
-* User Stories - Automate Acdeptance Tests - Gherkin + Cucumber
+* User Stories - Automate Acceptance Tests - Gherkin + Cucumber
 * Introduction to Relative Weight - Incorporate Value and Risk in your Prio
 * Relative Weight Exercise - Lets build a relative Weight Backlog
 * Relative Weight Exercise
